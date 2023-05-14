@@ -1,0 +1,5 @@
+F:\new-project\CS\test_discord_bot\obj\Debug\netcoreapp2.1\test_discord_bot.csproj.AssemblyReference.cache
+F:\new-project\CS\test_discord_bot\obj\Debug\netcoreapp2.1\test_discord_bot.GeneratedMSBuildEditorConfig.editorconfig
+F:\new-project\CS\test_discord_bot\obj\Debug\netcoreapp2.1\test_discord_bot.AssemblyInfoInputs.cache
+F:\new-project\CS\test_discord_bot\obj\Debug\netcoreapp2.1\test_discord_bot.AssemblyInfo.cs
+F:\new-project\CS\test_discord_bot\obj\Debug\netcoreapp2.1\test_discord_bot.csproj.CoreCompileInputs.cache
